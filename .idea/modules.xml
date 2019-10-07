@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Database app.iml" filepath="$PROJECT_DIR$/Database app.iml" />
+      <module fileurl="file://C:/Program Files/Python37/Lib/site-packages/pyodbc-4.0.27.dist-info/pyodbc-4.0.27.dist-info.iml" filepath="C:/Program Files/Python37/Lib/site-packages/pyodbc-4.0.27.dist-info/pyodbc-4.0.27.dist-info.iml" />
+    </modules>
+  </component>
+</project>
